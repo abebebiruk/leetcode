@@ -1,4 +1,4 @@
-#Spproach only passed 81/98 testcase
+#This approach only passed 81/98 testcase
 
 # class Solution(object):
 #     def isValid(self, s):
